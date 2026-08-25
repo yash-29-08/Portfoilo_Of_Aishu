@@ -260,32 +260,32 @@
   ---------------------------------------------------------- */
   const certs = [
     {
-      img: "cert-1-thumb.jpg",
+      img: "cert-1-thumb.jpeg",
       title: "Microsoft Certified — Azure Fundamentals",
       meta: "Microsoft · May 18, 2026",
       note: "okay this one is Microsoft",
     },
     {
-      img: "cert-2-thumb.jpg",
+      img: "cert-2-thumb.jpeg",
       title: "AI Algorithm Development with Python: Essentials & Implementation",
       meta: "Intel Unnati / Edulateral Foundation / GLA University · Oct 2025",
       note: "receipt #02",
     },
     {
-      img: "cert-3-thumb.jpg",
+      img: "cert-3-thumb.jpeg",
       title: "AI Mastery: Unlocking the Power of Artificial Intelligence",
       meta: "NEC Corporation India / Edulateral Foundation / GLA University · Oct 2025",
       note: "receipt #03",
     },
     {
-      img: "cert-4-thumb.jpg",
+      img: "cert-4-thumb.jpeg",
       title: "Innovision'25 — 3rd Rank, One Shot One Line",
       meta: "Netaji Subhas University of Technology · Nov 2025",
       note: "achievement spotted",
       achievement: true,
     },
     {
-      img: "cert-5-thumb.jpg",
+      img: "cert-5-thumb.jpeg",
       title: "CaseForge 2025 — Case Study Competition",
       meta: "IIT Kharagpur · Participation",
       note: "case-study detour",
